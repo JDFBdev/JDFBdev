@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React - Apollo, CSS transition group and more!**
 
-- 👯 I’m looking to collaborate on **a great team!**
+- 👯 I’m looking to collaborate on **a team where i can meet and learn from amazing people and develop great workflows!**
 
 - 📫 How to reach me **JDFBdev@gmail.com**
 
