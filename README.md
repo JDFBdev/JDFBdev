@@ -47,9 +47,12 @@
 
 &nbsp;
 
-## :paperclip: How to reach me:
-<span >
-<a href="https://www.linkedin.com/in/JDFBdev" ><img width="7%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
-<a href="mailto:JDFBdeveloper@gmail.com" ><img width="7%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
+<h3 align="center">
+📎 How to reach me:
+</h3>
+
+<span align="center">
+<a href="https://www.linkedin.com/in/JDFBdev" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
+<a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
 </span>
 
