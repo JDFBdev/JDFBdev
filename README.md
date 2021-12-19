@@ -1,6 +1,3 @@
-
-  ![JDFBdev](https://github.com/JDFBdev/JDFBdev/blob/main/Front%20animation.gif)
-  
 <p align="center">
   <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Front%20animation.gif" width="90%" title="portrait">
 </p>
