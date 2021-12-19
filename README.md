@@ -1,6 +1,6 @@
-<div align="center">
+
   ![JDFBdev](https://github.com/JDFBdev/JDFBdev/blob/main/Front%20animation.gif)
-</div>
+
 
 <h2 align="center">
 🚀 from Argentina to 🌎
