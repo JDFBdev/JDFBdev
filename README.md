@@ -1,4 +1,6 @@
-![JDFBdev](https://github.com/JDFBdev/JDFBdev/blob/main/Front%20animation.gif)
+<div align="center">
+  ![JDFBdev](https://github.com/JDFBdev/JDFBdev/blob/main/Front%20animation.gif)
+</div>
 
 <h2 align="center">
 🚀 from Argentina to 🌎
@@ -9,7 +11,7 @@
 
 ## :star: Languages and Tools:
 
-<p>
+<p align="center">
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/javaScript.png"></code>
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/react.png"></code>
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/redux.png"></code>
