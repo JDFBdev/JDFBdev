@@ -53,6 +53,6 @@
 
 <span align="center">
 <a href="https://www.linkedin.com/in/JDFBdev" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
-<a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
+<a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
 </span>
 
