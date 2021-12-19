@@ -41,17 +41,15 @@
 <p>
   <a><img width="30%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/landing.png"></a>
   <a><img width="30%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/front.png"></a>
-</p>
-<p>
   <a><img width="30%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/cards.png"></a>
-  <a><img width="30%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/form.png"></a>
 </p>
+
 
 &nbsp;
 
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/JDFBdev" ><img width="7%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
-<a href="mailto:JDFBdeveloper@gmail.com" ><img width="%7" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
+<a href="mailto:JDFBdeveloper@gmail.com" ><img width="7%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
 </span>
 
