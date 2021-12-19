@@ -6,12 +6,12 @@
 🚀 from Argentina to 🌎
 </h2>
 
-&nbsp;&nbsp;
+&nbsp;
 
 
 <h3 align="center">
 :star: Languages and Tools:
-</h2>
+</h3>
 
 
 <p align="center">
@@ -31,18 +31,27 @@
   <br />  
 </p>
 
+&nbsp;
 
-&nbsp;&nbsp;
+<h3 align="center">
+📌 My Projects:
+</h3>
 
+<h4 align="center">Food App</h4>
+<p>
+  <a><img width="15%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/landing.png"></a>
+  <a><img width="15%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/front.png"></a>
+</p>
+<p>
+  <a><img width="15%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/cards.png"></a>
+  <a><img width="15%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/form.png"></a>
+</p>
 
+&nbsp;
 
-- 🔭 I’m currently working on my Henry Final Project
-
-- 🌱 I’m currently learning React - Apollo, CSS transition group and more!
-
-- 👯 I’m looking to collaborate on a team where i can meet and learn from amazing people and develop great workflows!
-
-- 📫 How to reach me *JDFBdev@gmail.com*
-
-- 📄 Know aboues [https://www.linkedin.com/in/JDFBdev/](https://www.linkedin.com/in/JDFBdev/)
+## :paperclip: How to reach me:
+<span >
+<a href="https://www.linkedin.com/in/JDFBdev" ><img width="7%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
+<a href="mailto:JDFBdeveloper@gmail.com" ><img width="%7" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
+</span>
 
