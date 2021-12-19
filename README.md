@@ -10,11 +10,11 @@
 
 
 <h3 align="center">
-## :star: Languages and Tools:
+:star: Languages and Tools:
 </h2>
 
 
-<p >
+<p align="center">
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/javaScript.png"></code>
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/react.png"></code>
   <code><img width="10%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/redux.png"></code>
