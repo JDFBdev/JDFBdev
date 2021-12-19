@@ -43,6 +43,11 @@
   <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/front.png"></a>
   <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/cards.png"></a>
 </p>
+<p align="center">
+  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/form.png"></a>
+  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/detail.png"></a>
+  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/about.png"></a>
+</p>
 
 
 &nbsp;
