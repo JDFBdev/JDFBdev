@@ -52,16 +52,10 @@
 &nbsp;
 
 <h4 align="center">Post-Modern Pokedex</h4>
-<p align="center">
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/1.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/2.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/3.png"></a>
-</p>
-<p align="center">
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/4.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/5.png"></a>
-</p>
 
+<p align="center">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/to%20gifgg.gif" width="90%" title="portrait">
+</p>
 
 &nbsp;
 
