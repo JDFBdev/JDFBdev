@@ -48,7 +48,7 @@
 <h4 align="center">Post-Modern Pokedex</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/to%20gifgg.gif" width="90%" title="portrait">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/PokeGif.gif" width="90%" title="portrait">
 </p>
 
 &nbsp;
