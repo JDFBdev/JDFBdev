@@ -40,7 +40,7 @@
 <h4 align="center">Food App</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/ApiGif.gif" width="90%" title="portrait">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/ApiGif.gif" width="90%" height="70%" title="portrait">
 </p>
 
 &nbsp;
