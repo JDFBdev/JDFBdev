@@ -38,15 +38,9 @@
 </h3>
 
 <h4 align="center">Food App</h4>
+
 <p align="center">
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/landing.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/front.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/cards.png"></a>
-</p>
-<p align="center">
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/form.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/detail.png"></a>
-  <a><img width="33%" src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/about.png"></a>
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/ApiGif.gif" width="90%" title="portrait">
 </p>
 
 &nbsp;
