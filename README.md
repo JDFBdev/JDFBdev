@@ -9,7 +9,7 @@
 &nbsp;
 
 
-<h3 align="center">
+<h2 align="center">
 :star: Languages and Tools:
 </h3>
 
@@ -33,19 +33,27 @@
 
 &nbsp;
 
-<h3 align="center">
+<h2 align="center">
 📌 My Projects:
 </h3>
 
-<h4 align="center">Food App</h4>
+<h3 align="center">Henry Restaurant</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Food%20App/ApiGif.gif" width="90%" height="70%" title="portrait">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Henry%20Restaurant/restaurantegif.gif" width="90%" height="70%" title="portrait">
 </p>
 
 &nbsp;
 
-<h4 align="center">Post-Modern Pokedex</h4>
+<h3 align="center">Food App</h4>
+
+<p align="center">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Recipe%20Proyect/recipe.gif" width="90%" height="70%" title="portrait">
+</p>
+
+&nbsp;
+
+<h3 align="center">Post-Modern Pokedex</h4>
 
 <p align="center">
   <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/PokeGif.gif" width="90%" title="portrait">
@@ -53,7 +61,15 @@
 
 &nbsp;
 
-<h3 align="center">
+<h3 align="center">I´ve Already Seen It</h4>
+
+<p align="center">
+  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/I%C2%B4ve%20Already%20Seen%20It/Mi%20video.gif" width="90%" title="portrait">
+</p>
+
+&nbsp;
+
+<h2 align="center">
 📎 How to reach me:
 </h3>
 
