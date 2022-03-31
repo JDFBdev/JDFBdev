@@ -40,7 +40,9 @@
 <h3 align="center">Henry Restaurant</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Henry%20Restaurant/restaurantegif.gif" width="90%" height="70%" title="portrait">
+  <a href='https://www.linkedin.com/feed/update/urn:li:activity:6897664671508152320/' >
+    <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Henry%20Restaurant/restaurantegif.gif" width="90%" height="70%" title="portrait">
+   <a/>
 </p>
 
 &nbsp;
@@ -48,7 +50,9 @@
 <h3 align="center" href="https://post-modern-pokedex.vercel.app/">Food App</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Recipe%20Proyect/recipe.gif" width="90%" height="70%" title="portrait">
+   <a href='https://www.linkedin.com/feed/update/urn:li:activity:6878684525543604224/' >
+      <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Recipe%20Proyect/recipe.gif" width="90%" height="70%" title="portrait">
+   </a>
 </p>
 
 &nbsp;
@@ -56,7 +60,9 @@
 <h3 align="center">Post-Modern Pokedex</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/PokeGif.gif" width="90%" title="portrait">
+  <a href='https://post-modern-pokedex.vercel.app/' >
+    <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Post-Modern-Pokedex/PokeGif.gif" width="90%" title="portrait">
+  </a>
 </p>
 
 &nbsp;
@@ -64,7 +70,9 @@
 <h3 align="center">I´ve Already Seen It</h4>
 
 <p align="center">
-  <img src="https://github.com/JDFBdev/JDFBdev/blob/main/I%C2%B4ve%20Already%20Seen%20It/Mi%20video.gif" width="90%" title="portrait">
+  <a href='https://ivealreadyseenit.vercel.app/' >
+    <img src="https://github.com/JDFBdev/JDFBdev/blob/main/I%C2%B4ve%20Already%20Seen%20It/Mi%20video.gif" width="90%" title="portrait">
+  </a>
 </p>
 
 &nbsp;
@@ -74,7 +82,8 @@
 </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/JDFBdev" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
-<a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png">
+  <a href="https://www.linkedin.com/in/JDFBdev" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
+  <a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png"> &nbsp;
+  <a href="https://jdfb-portfolio.vercel.app/" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/JDFB.png">
 </p>
 
