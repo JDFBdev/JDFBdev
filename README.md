@@ -47,10 +47,10 @@
 
 &nbsp;
 
-<h3 align="center" href="https://post-modern-pokedex.vercel.app/">Food App</h4>
+<h3 align="center">Meal Swipe</h4>
 
 <p align="center">
-   <a href='https://www.linkedin.com/feed/update/urn:li:activity:6878684525543604224/' >
+   <a href='https://mealswipe.vercel.app/' >
       <img src="https://github.com/JDFBdev/JDFBdev/blob/main/Recipe%20Proyect/recipe.gif" width="90%" height="70%" title="portrait">
    </a>
 </p>
