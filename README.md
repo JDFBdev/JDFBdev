@@ -84,6 +84,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/JDFBdev" ><img width="5%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/linkedin.png"> &nbsp;
   <a href="mailto:JDFBdeveloper@gmail.com" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/gmail.png"> &nbsp;
-  <a href="https://jdfb-portfolio.vercel.app/" ><img width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/JDFB.png">
+  <a href="https://jdfb-portfolio.vercel.app/" ><img border-radius: "5px" width="5%" height="6%" src="https://github.com/JDFBdev/JDFBdev/blob/main/icons/JDFB.png">
 </p>
 
